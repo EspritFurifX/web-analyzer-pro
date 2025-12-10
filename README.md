@@ -380,16 +380,6 @@ L'auteur décline toute responsabilité en cas d'utilisation abusive.
 
 ---
 
-## 📞 Support
-
-Besoin d'aide ? Plusieurs options :
-
-- 🐛 **Issues** : [GitHub Issues](https://github.com/espritfurtifx/web-analyzer/issues)
-- 💬 **Discussions** : [GitHub Discussions](https://github.com/espritfurtifx/web-analyzer/discussions)
-- 📧 **Email** : support@example.com
-
----
-
 <div align="center">
 
 **⭐ Si ce projet vous a aidé, n'hésitez pas à lui donner une étoile ! ⭐**
